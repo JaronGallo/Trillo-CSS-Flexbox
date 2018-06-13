@@ -167,7 +167,7 @@ body {
           width: 95%; } }
     .search__input::-webkit-input-placeholder {
       font-weight: 100;
-      color: var(--color-grey-light-4); }
+      color: var(--color-grey-dark-3); }
   .search__button {
     border: none;
     background-color: var(--color-grey-light-2); }
