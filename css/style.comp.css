@@ -167,7 +167,7 @@ body {
           width: 95%; } }
     .search__input::-webkit-input-placeholder {
       font-weight: 100;
-      color: var(--color-grey-dark-3); }
+      color: var(--color-grey-light-4); }
   .search__button {
     border: none;
     background-color: var(--color-grey-light-2); }
@@ -192,9 +192,6 @@ body {
     align-items: center; }
   .user-nav > *:hover {
     background-color: var(--color-grey-light-2); }
-    @media only screen and (max-width: 56.75em) {
-      .user-nav > *:hover {
-        background-color: transparent; } }
   .user-nav__icon-box {
     position: relative; }
   .user-nav__icon {
